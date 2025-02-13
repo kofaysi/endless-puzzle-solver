@@ -4,7 +4,7 @@
 tiles = [
     ("TS", "BL", "CS", "LS"),
     ("LL", "TS", "CL", "BD"),
-    ("CL", "BL", "LL", "TL"), # ("CL", "BD", "LL", "TL"),
+    ("CL", "BL", "LL", "TL"), #("CL", "BD", "LL", "TL"),
     ("CL", "LS", "BD", "TS"),
     ("CS", "TS", "CS", "LL"),
     ("LS", "CS", "BL", "TL"), #("LS", "CS", "BD", "TL"),
