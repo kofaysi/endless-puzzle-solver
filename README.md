@@ -46,6 +46,5 @@ Solution 1:
 ## **Related Puzzle Project: Endless Puzzle**  
 Looking for own puzzle fun? Check out **[Endless Puzzle](https://happyglimpse.itch.io/endless-puzzle)**, a unique puzzle experience available on Itch.io! If you enjoy logic-based challenges and creative puzzle mechanics, this game is worth exploring.  
 
-
 ## **Contributing**  
 Feel free to fork the repository and submit **pull requests** to improve the solver, optimize the backtracking algorithm, or add **new puzzle themes**!
